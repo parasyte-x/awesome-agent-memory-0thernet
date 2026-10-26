@@ -276,6 +276,13 @@
     "desc": "Managed RAG and retrieval-memory-as-a-service for agent applications."
   },
   {
+    "name": "Membase",
+    "url": "https://membase.com",
+    "category": "managed",
+    "desc": "Hosted cross-agent memory layer with an MCP server and MIT-licensed Python/TypeScript SDKs; one persistent memory shared by Claude, ChatGPT, Cursor and custom agents.",
+    "repo": "unibaseio/membase"
+  },
+  {
     "name": "Agent Memory Techniques (notebooks)",
     "url": "https://github.com/NirDiamant/Agent_Memory_Techniques",
     "category": "learning",

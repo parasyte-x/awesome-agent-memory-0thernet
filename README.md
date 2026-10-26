@@ -21,7 +21,7 @@ An agent with no memory starts every conversation from zero. Memory is what lets
 **The one rule:** a memory system is only as good as its recall precision under real load. A store that returns the wrong three memories is worse than no memory at all.
 
 <!-- LIST:START -->
-**44 entries**, auto-refreshed weekly. Star counts updated **2026-09-21**. Browse the filterable version at **[agent-memory.agentpostmortem.com](https://agent-memory.agentpostmortem.com)**.
+**45 entries**, auto-refreshed weekly. Star counts updated **2026-09-21**. Browse the filterable version at **[agent-memory.agentpostmortem.com](https://agent-memory.agentpostmortem.com)**.
 
 ### Memory frameworks and libraries
 
@@ -81,6 +81,7 @@ An agent with no memory starts every conversation from zero. Memory is what lets
 - [Cognee Cloud](https://www.cognee.ai/): Managed offering of the Cognee knowledge-graph memory engine.
 - [Graphlit](https://graphlit.com/): Managed knowledge/memory API turning content into a searchable graph for agents.
 - [Ragie](https://ragie.ai/): Managed RAG and retrieval-memory-as-a-service for agent applications.
+- [Membase](https://membase.com): Hosted cross-agent memory layer with an MCP server and MIT-licensed Python/TypeScript SDKs; one persistent memory shared by Claude, ChatGPT, Cursor and custom agents.
 
 ### Learning resources
 
